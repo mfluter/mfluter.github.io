@@ -12,4 +12,4 @@ London Today is focused on the Hitory and City of London Ontario.
 
 #Working in the City
 **How to find your way**
-- Lorem ipsum dolor sit amet
+
