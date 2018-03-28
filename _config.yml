@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: me
   avatar: bio-photo.jpg
-  bio: "I am herem today."
-  email: mfluter@rogers.com
+  bio: 
+  email:
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
